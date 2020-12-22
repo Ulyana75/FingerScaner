@@ -1,3 +1,3 @@
 # FingerScaner
 physics project
-Программу писать в main
+Программу писать в main.py
